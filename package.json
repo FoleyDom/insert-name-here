@@ -1,0 +1,23 @@
+{
+  "name": "100-hours-space",
+  "version": "1.0.0",
+  "description": "App for caregivers of people with disability's to come together.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoleyDom/insert-name-here.git"
+  },
+  "author": "Dominique Foley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FoleyDom/insert-name-here/issues"
+  },
+  "homepage": "https://github.com/FoleyDom/insert-name-here#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
