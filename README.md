@@ -4,7 +4,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+<!-- ![alt tag](http://placecorgi.com/1200/650) -->
 
 ## How It's Made:
 
@@ -26,8 +26,8 @@ No matter what your experience level, being an engineer means continuously learn
 
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+<!-- **Palettable:** https://github.com/alecortega/palettable
 
 **Twitter Battle:** https://github.com/alecortega/twitter-battle
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**Patch Panel:** https://github.com/alecortega/patch-panel -->
