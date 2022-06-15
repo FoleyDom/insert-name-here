@@ -19,8 +19,10 @@
     },
     "homepage": "https://github.com/FoleyDom/insert-name-here#readme",
     "dependencies": {
+        "bootstrap": "^5.2.0-beta1",
         "ejs": "^3.1.8",
-        "express": "^4.18.1"
+        "express": "^4.18.1",
+        "jquery": "^3.6.0"
     },
     "devDependencies": {
         "nodemon": "^2.0.16"
